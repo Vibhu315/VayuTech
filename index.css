@@ -74,15 +74,6 @@ strong{
     width: 100%;
    border-radius: 30%;
 }
-.social{
-   
-    margin-right: 3px;
-    display: inline;
-    color:#00abf0;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-size:25px;
-}
 button{
     background-color: #333;
     color:#081b29;
@@ -97,7 +88,7 @@ button{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 .container2{
-    height: 2500px;
+    height: 2030px;
    padding-top: 27px;   
 /* margin-top: 37px; */
 
@@ -127,4 +118,3 @@ background-color:#87CEFA;
   .selected {
     background-color: yellow;
   }
-  
