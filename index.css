@@ -119,4 +119,8 @@ background-color:#87CEFA;
     background-color: yellow;
   }
 
- 
+.teams{
+    height: 683px;
+    padding-bottom:0;
+    background-color: #00abf0;
+}
